@@ -1,4 +1,4 @@
-This repository contains the MATLAB scripts associated with the paper [Coupling between motor cortex and striatum increases during sleep over long-term skill learning]
+This repository contains the MATLAB scripts associated with the paper "Coupling between motor cortex and striatum increases during sleep over long-term skill learning"
 
 ## To generate figures
 
